@@ -15,11 +15,7 @@ This project implements a real-time disaster tweet triage system designed to hel
 -   **Dynamic Configuration**: Ability to switch between simulation and real Twitter API modes at runtime without restarting the server.
 -   **Comprehensive Documentation**: Detailed guides for setup, API integration, deployment, and troubleshooting.
 
-## 🌐 Live Demo
 
--   **Dashboard**: [https://bngmhxsg.manus.space](https://bngmhxsg.manus.space)
--   **API Endpoint**: [https://8003-i30427mxkxuydow12jlnz-d351187c.manusvm.computer](https://8003-i30427mxkxuydow12jlnz-d351187c.manusvm.computer)
-    -   API Documentation: [https://8003-i30427mxkxuydow12jlnz-d351187c.manusvm.computer/docs](https://8003-i30427mxkxuydow12jlnz-d351187c.manusvm.computer/docs)
 
 ## 🚀 Getting Started (Startup Guide)
 
