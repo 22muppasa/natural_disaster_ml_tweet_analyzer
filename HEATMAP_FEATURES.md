@@ -174,9 +174,7 @@ API Data → Tweet Processing → Heatmap Clustering → Visual Rendering
 Dashboard State ← User Interaction ← Map Click Events ←────┘
 ```
 
-## 🚀 **Live Demo**
 
-**Updated Dashboard**: https://iueuvgxq.manus.space
 
 ### **How to Use**
 1. **View the Map**: The heatmap is displayed in the right sidebar
